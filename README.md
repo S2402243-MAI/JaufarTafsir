@@ -81,7 +81,7 @@ jaufarTafsirApp/
 ## Development & Build
 
 ### Prerequisites
-- Android Studio Ladybug (or newer)
+- Android Studio Panda 3 (or newer)
 - JDK 17+
 - Android SDK 36 (Target) / 24 (Min)
 
