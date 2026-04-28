@@ -105,5 +105,5 @@ The project uses R8 for aggressive minification. If you add new JavaScript inter
 
 ## Credits
 
-- **Tafsir Content:** Jaufar (Dhivehi Translation)
+- **Tafsir Content:** Jaufar (Dhivehi Tafsir)
 - **Platform:** Developed by MAI
